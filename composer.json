@@ -1,5 +1,5 @@
 {
-    "name": "benjacho/belongs-to-many-field",
+    "name": "cwray-tech/inline-belongs-to-many",
     "description": "belongsToMany nova representation in field.",
     "keywords": [
         "laravel",
